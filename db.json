@@ -1,0 +1,68 @@
+{
+  "accounts": [
+    {
+      "firstName": "Daniel",
+      "lastName": "Wede",
+      "email": "wede@gmail.com",
+      "phone": "090771234456",
+      "password": "Huncho",
+      "confirm": "Huncho",
+      "id": 1
+    },
+    {
+      "password": "",
+      "id": 2
+    },
+    {
+      "password": "",
+      "id": 3
+    },
+    {
+      "password": "",
+      "id": 4
+    },
+    {
+      "password": "",
+      "id": 5
+    }
+  ],
+  "events": [
+    {
+      "date_created": "2015-12-23",
+      "loation": "",
+      "venue": "",
+      "start_time": "",
+      "stop_time": "",
+      "event_theme": "",
+      "description": "",
+      "event_date": "",
+      "created_by": "",
+      "host": "",
+      "guests": [],
+      "attendees": [],
+      "event_banner": "",
+      "event_image": "",
+      "sponsors": [],
+      "ticket_categories": "",
+      "ticket_fee": "",
+      "event_team": [],
+      "event_dress_code": "",
+      "number_of_seats": "",
+      "available_tickets": ""
+    }
+  ],
+  "fakeEvents": [
+    {
+      "title": "alakija",
+      "description": "today is the day the lord has made"
+    },
+    {
+      "title": "Norbs",
+      "description": "get together landmark beach"
+    },
+    {
+      "title": "Huncho",
+      "description": "Let's make some mf noise"
+    }
+  ]
+}
